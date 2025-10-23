@@ -1,0 +1,1 @@
+* look at scrapy, might move this whole shit of a circus to scrapy
