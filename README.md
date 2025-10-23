@@ -1,6 +1,8 @@
 # simplepywebcrawler
-This is a simple web crawler for me to improve my python skills on\n
-Author: bustdownrarri
+This is a simple web crawler for me to improve my python skills on  
+Author: bustdownrarri  
+
+DISCLAIMER: this is still in beta and code still works like shit, but it works
 
 ## Requirements
 - bs4
